@@ -1,0 +1,10 @@
+node_modules/
+.nuxt/
+.output/
+.next/
+dist
+.env*
+!.env.example
+.DS_Store
+.pnpm-store/
+*.tsbuildinfo
